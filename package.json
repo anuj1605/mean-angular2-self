@@ -1,0 +1,30 @@
+{
+  "name": "mean-angular2-self",
+  "version": "1.0.0",
+  "description": "MEAN stack with Angular 2",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anuj1605/mean-angular2-self.git"
+  },
+  "keywords": [
+    "MEAN",
+    "stack",
+    "Angular",
+    "2",
+    "Application"
+  ],
+  "author": "Anuj Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anuj1605/mean-angular2-self/issues"
+  },
+  "homepage": "https://github.com/anuj1605/mean-angular2-self#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "mongoose": "^4.12.5"
+  }
+}
